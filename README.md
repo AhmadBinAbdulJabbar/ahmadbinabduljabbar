@@ -29,7 +29,7 @@ I'm a **Full Stack Developer** specializing in **MERN stack** and currently lear
 
 ## 📫 Let's Connect
 - **GitHub:** [github.com/ahmadbinabduljabbar](#)
-- **LinkedIn:** [linkedin.com/in/ahmad-bin-abdul-jabbar](#https://www.linkedin.com/in/ahmadbinabduljabbar)
+- **LinkedIn:** [linkedin.com/in/ahmad-bin-abdul-jabbar](https://www.linkedin.com/in/ahmadbinabduljabbar)
 - **Email:** ahmadbinabduljabbar@gmail.com
 
 Thanks for stopping by! 🚀
