@@ -25,7 +25,7 @@ I'm a **Full Stack Developer** specializing in **MERN stack** and currently lear
 
 ## 🔥 Skills
 - **Tech:** React, JavaScript, Node.js, Express.js, MongoDB, SQL
-- **Currently Learning:** DSA, SQL, Python, Django
+- **Currently Learning:** Python, Django
 
 ## 📫 Let's Connect
 - **GitHub:** [github.com/ahmadbinabduljabbar](#)
