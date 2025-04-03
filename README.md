@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # Hi there! 👋 I'm Ahmad bin Abdul Jabbar
 
 ## 🚀 About Me
-I'm a **Full Stack Developer** specializing in **MERN stack** and currently learning **DSA & SQL**. Passionate about problem-solving and building impactful projects.
+I'm a **Full Stack Developer** specializing in **MERN stack** and currently learning **Python and Django**. Passionate about problem-solving and building impactful projects.
 
 ## 🎓 Education & Experience
 - **BSCS (2024 Graduate)**
