@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Ahmad bin Abdul Jabbar
 # 💫 About Me:
-🔭 I’m currently working on a MERN stack web app and a Python-SQL based final project.<br>👯 I’m looking to collaborate on open-source and full-stack web development projects.<br>🤝 I’m looking for help with advanced Python and real-world Django practices.<br>🌱 I’m currently learning Python, Django, and SQL through CS50 courses.<br>💬 Ask me about MERN stack development, freelancing, or getting started in full-stack dev.<br>⚡ Fun fact: I love playing cricket and recently started learning chess!
+🔭 I’m currently working on a MERN stack web app and a Python-Django based final project.<br>👯 I’m looking to collaborate on open-source and full-stack web development projects.<br>🤝 I’m looking for help with advanced Python and real-world Django practices.<br>🌱 I’m currently learning Python, Django, and SQL through CS50 courses.<br>💬 Ask me about MERN stack development, freelancing, or getting started in full-stack dev.<br>⚡ Fun fact: I love playing cricket and recently started learning chess!
 
 
 ## 🌐 Socials:
