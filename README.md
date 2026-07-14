@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Ahmad bin Abdul Jabbar
 # 💫 About Me:
-🔭 I’m currently Learning Data Science & AI.<br>👯 I’m looking to collaborate on open-source and full-stack web development projects.<br>🤝.<br>⚡ Fun fact: I love playing cricket and recently started learning chess!
+🔭 I’m currently Learning Data Science & AI.<br>⚡ Fun fact: I love playing cricket and recently started learning chess!
 
 
 ## 🌐 Socials:
